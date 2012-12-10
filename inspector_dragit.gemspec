@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = InspectorDragit::VERSION
   s.authors     = ["Christopher William Parratto Jr"]
   s.email       = ["cparratto@gmail.com"]
-  s.homepage    = "www.github.com/cparratto"
+  s.homepage    = "https://github.com/cparratto/Inspector-Dragit"
   s.summary     = "Drag an drop attribute inspector."
   s.description = "Drag and drop attribute inspector. Nests model attributes as html 5 data attributes on any html element.\
  The element becomes a draggable element. Drag elements to an inspector div to view its properties."
